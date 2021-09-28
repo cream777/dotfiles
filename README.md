@@ -1,4 +1,4 @@
 # dotfiles
-dot files
+dotfiles
 
 various config files for backup.
